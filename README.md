@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ssstrangerx
 - 👀 I’m interested in no one
-- 🌱 I’m currently learning ML
+- 🌱 My skills are webdevelopment-(frontend and backend), ML and DS in python, Mysql, MongoDB
+
 
 
 <!---
